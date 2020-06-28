@@ -7,4 +7,4 @@ import os, sys
 
 
 # Command
-os.system("{} src/xt32.py".format(python)
+os.system(f"{python} src/xt32.py")
