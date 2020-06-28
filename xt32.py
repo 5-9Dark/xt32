@@ -3,8 +3,5 @@
 
 import os, sys
 
-# Write/Read config
-
-
 # Command
-os.system(f"{python} src/xt32.py")
+os.system("python3 src/xt32.py")
