@@ -9,9 +9,8 @@
 ## How to start?
 
 ```
-sudo -H python3 -m pip install -r requirements.txt \
+python3 -m pip install -r requirements.txt \
 bash src/install.sh
-
 ```
 
 
