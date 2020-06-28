@@ -21,4 +21,4 @@ else
 fi
 
 
-python3 xt32.py
+python3 main.py
