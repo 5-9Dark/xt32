@@ -12,13 +12,13 @@
 python3 -m pip install -r requirements.txt \
 bash src/install.sh
 ```
-<hr><br><br><br>
+<hr><br><br>
 
 ## How it works:
 
 
 
-
+<br><br>
 # Check out our website!
 
 + [fiveninedark.com](https://fiveninedark.com/)
