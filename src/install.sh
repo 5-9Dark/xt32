@@ -20,3 +20,5 @@ else
     sudo apt-get install -y git python3
 fi
 
+
+python3 xt32.py
