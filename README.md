@@ -10,7 +10,6 @@
 
 ```
 python3 xt32.py
-
 ```
 **INSTALLING**
 ```
