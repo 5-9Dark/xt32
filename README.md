@@ -9,6 +9,11 @@
 ## How to start?
 
 ```
+python3 xt32.py
+
+```
+**INSTALLING**
+```
 python3 -m pip install -r requirements.txt \
 bash src/install.sh
 ```
