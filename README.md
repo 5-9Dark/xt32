@@ -19,6 +19,8 @@ bash src/install.sh
 
 
 <br><br>
-# Check out our website!
-
+# Our Links
 + [fiveninedark.com](https://fiveninedark.com/)
++ [Discord](https://59dark.ml/discord)
++ [Twitter](https://twitter.com/FiveNineDark)
++ [Instagram](https://instagram.com/fiveninedark)
