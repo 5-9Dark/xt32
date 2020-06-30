@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- encoding: UTF-8 -*-
 
-import os, sys, argparse
+import os, sys
 
 # define char,num Aa-Zz 0-9
 charA = '01000001'
@@ -88,13 +88,28 @@ def clearScr():
     
 ### main ###
 
+alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghjklmnoprstuvwxyz 1234567890?><!@#$%^&*():;'
+dic = dict(zip(alphabet, range(78)))
+dic2 = {v: k for k, v in dic.items()}
 
 def str_encode():
-    
-    
+    string = input(color.RED + "[-]" + color.END + " String to encode: ")
+    key = int(input(color.RED + "[-] " + color.END + "Key to string: "))
+    list = (dic[x] for x in string)
+    encodeNums = ((x + key) % 78 for x in list)
+    encodeStr = (dic2[x] for x in encodeNums)
+    print("Your cypher is: " + color.IMPORTANT)
+    print("".join(encodeStr))
+    print("" + color.END)
 def str_decode():
-
-
+    string = input("String to decode: ")
+    key = int(input("key to string: "))
+    print("[*] Trying basic salt..\n")
+    list = (dic[x] for x in string)
+    decodeNums = ((x + -key) % 78 for x in list)
+    decodeStr = (dic2[x] for x in decodeNums)
+    print("".join(decodeStr))
+    
 ### run time ###
 clearScr()
 print("""
