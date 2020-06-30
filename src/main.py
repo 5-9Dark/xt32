@@ -88,7 +88,7 @@ def clearScr():
     
 ### main ###
 
-alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 1234567890?><!@#$%^&*():.,;-_'
+alphabet = 'ABCDEFHIJKLMNOPQRSTUVWXYZabcdefhijklmnopqrstuvwxyz 1234567890?><!@#$%^&*():.,;-_'
 dic = dict(zip(alphabet, range(82)))
 dic2 = {v: k for k, v in dic.items()}
 
