@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- encoding: UTF-8 -*-
 
-import os, sys
+import os
 
-# Command
-os.system("python3 src/xt32.py")
+os.system("python3 src/main.py")
