@@ -8,6 +8,7 @@ Versions that are currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 |  b0.1   | :x:                | 
+|  b0.2   | :x:                |
 |  1.0    | :white_check_mark: |
 --------------------------------
 
