@@ -88,15 +88,15 @@ def clearScr():
     
 ### main ###
 
-alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghjklmnoprstuvwxyz 1234567890?><!@#$%^&*():;'
-dic = dict(zip(alphabet, range(78)))
+alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 1234567890?><!@#$%^&*():.,;-_'
+dic = dict(zip(alphabet, range(82)))
 dic2 = {v: k for k, v in dic.items()}
 
 def str_encode():
     string = input(color.RED + "[-]" + color.END + " String to encode: ")
     key = int(input(color.RED + "[-] " + color.END + "Key to string: "))
     list = (dic[x] for x in string)
-    encodeNums = ((x + key) % 78 for x in list)
+    encodeNums = ((x + key) % 82 for x in list)
     encodeStr = (dic2[x] for x in encodeNums)
     print("Your cypher is: " + color.IMPORTANT)
     print("".join(encodeStr))
@@ -106,7 +106,7 @@ def str_decode():
     key = int(input("key to string: "))
     print("[*] Trying basic salt..\n")
     list = (dic[x] for x in string)
-    decodeNums = ((x + -key) % 78 for x in list)
+    decodeNums = ((x + -key) % 82 for x in list)
     decodeStr = (dic2[x] for x in decodeNums)
     print("".join(decodeStr))
     
