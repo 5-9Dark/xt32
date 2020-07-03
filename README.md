@@ -19,7 +19,7 @@ How it works:
 How to **install** project.
 
 ```bash
-$ gcc xt32.c
+$ gcc xt32.c -o xt32
 ```
 
 ## 🚀Usage
