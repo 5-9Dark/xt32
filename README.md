@@ -5,39 +5,28 @@
 
 
 ## ❓General Info
-**xt32** is a **dynamic encoding system** built in Python3.
+**xt32** is a **dynamic encoding system** built originally in Python3, now C for Windows!
 
-### Windows - General Info
-
-xt32 has a windows port, you can get the soruce code or download the exe in out "windows-source" branch
-
-
-
-
-	
-## 🔬Technologies
-Project is created with [Python3](https://www.python.org/download/releases/3.0/ "Python3") and built for both Linux and Windows!
 
 
 How it works:
 
 * *Coming Soon*
 
-System support:
 
-![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpadre.perlide.org%2Fstatic%2Falien%2Flinux-logo.png&f=1&nofb=1) ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fee%2FWindows_logo_%25E2%2580%2593_2012_%2528dark_blue%2529.svg%2F64px-Windows_logo_%25E2%2580%2593_2012_%2528dark_blue%2529.svg.png&f=1&nofb=1)
 	
 ## 🔌Setup
 How to **install** project.
 
 ```bash
-$ bash src/install.sh
+$ gcc xt32.c \
+> chmod +x xt32
 ```
 
 ## 🚀Usage
 How to start ?
 ```bash
-$ python3 xt32.py
+$ xt32 -h
 ```
 
 ## 👥Code Contributors
