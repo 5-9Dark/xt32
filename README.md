@@ -4,8 +4,16 @@
 ![](https://img.shields.io/badge/FiveNineDark-2020-red) ![](https://camo.githubusercontent.com/8930dd7dabdc54b27273533cf1396472b2991555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c2d2d332e302d677265656e) ![](https://camo.githubusercontent.com/192a20e30298c2c77aed07b61c3d1fc6b9c85d09/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f353431383239323935383730343433353432) ![](https://camo.githubusercontent.com/d063b3af2345dbbd117eaa6a618c77bd07443eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332d627269676874677265656e2e737667)
 
 
-## ❓General info
-This project is **xt32** is a **dynamic encoding system** built in Python 3.
+## ❓General Info
+**xt32** is a **dynamic encoding system** built in Python3.
+
+### Windows - General Info
+
+xt32 has a windows port, you can get the soruce code or download the exe in out "windows-source" branch
+
+
+
+
 	
 ## 🔬Technologies
 Project is created with [Python3](https://www.python.org/download/releases/3.0/ "Python3") and built for both Linux and Windows!
