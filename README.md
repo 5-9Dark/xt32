@@ -28,6 +28,9 @@ How to start ?
 ```bash
 $ xt32 -h
 ```
+Systems Supported:
+
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpadre.perlide.org%2Fstatic%2Falien%2Flinux-logo.png&f=1&nofb=1) ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fee%2FWindows_logo_%25E2%2580%2593_2012_%2528dark_blue%2529.svg%2F64px-Windows_logo_%25E2%2580%2593_2012_%2528dark_blue%2529.svg.png&f=1&nofb=1)
 
 ## 👥Code Contributors
 This project exists **thanks** to all the people who contribute and the 5/9Dark Dev Team! [[Contribute]](https://github.com/5-9Dark/xt32/graphs/contributors "[Contribute]")
