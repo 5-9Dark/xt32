@@ -17,6 +17,7 @@ Versions that are currently being supported with security updates.
 
 | Version | Name               |  Code-Name   |
 | ------- | ------------------ | ------------ |
+| c-b0.1  | version-0.0.1/     |   BETA       |
 |  1.0    | version-1.0.0/     |   Gopel      |
 -----------------------------------------------
 
