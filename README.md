@@ -19,13 +19,13 @@ How it works:
 How to **install** project.
 
 ```bash
-$ gcc xt32.c -o xt32
+$ python3 src/install.py
 ```
 
 ## 🚀Usage
 How to start ?
 ```bash
-$ xt32 -h
+$ python3 xt32.py
 ```
 Systems Supported:
 
