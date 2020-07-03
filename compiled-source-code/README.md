@@ -2,6 +2,7 @@
 Basic outline of source-code.
 
 
+## Versions with Security Updates
 Versions that are currently being supported with security updates.
 
 | Version | Supported          |
@@ -10,5 +11,4 @@ Versions that are currently being supported with security updates.
 |  1.0    | :white_check_mark: |
 --------------------------------
 
-
-(C) FiveNineDark
+<hr><br>(C) FiveNineDark
