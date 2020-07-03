@@ -7,6 +7,7 @@ Versions that are currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| c-b0.1  | :x:                |
 |  b0.1   | :x:                | 
 |  b0.2   | :x:                |
 |  b0.3   | :x:                |
