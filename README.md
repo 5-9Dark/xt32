@@ -1,7 +1,7 @@
 # 👋 **Welcome to the xt32 project!**
 [General info](#general-info) | [Setup](#setup) | [Usage](#usage) | [Code Contributors](#CodeContributors) | [Links](#Links)
 
-![](https://img.shields.io/badge/FiveNineDark-2020-red) ![](https://camo.githubusercontent.com/8930dd7dabdc54b27273533cf1396472b2991555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c2d2d332e302d677265656e) ![](https://camo.githubusercontent.com/192a20e30298c2c77aed07b61c3d1fc6b9c85d09/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f353431383239323935383730343433353432) ![](https://camo.githubusercontent.com/d063b3af2345dbbd117eaa6a618c77bd07443eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332d627269676874677265656e2e737667)
+![](https://img.shields.io/badge/FiveNineDark-2020-red) ![](https://camo.githubusercontent.com/8930dd7dabdc54b27273533cf1396472b2991555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c2d2d332e302d677265656e) ![](https://camo.githubusercontent.com/192a20e30298c2c77aed07b61c3d1fc6b9c85d09/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f353431383239323935383730343433353432) ![](https://img.shields.io/badge/Built%20in-C-brightgreen)
 
 
 ## ❓General Info
@@ -19,8 +19,7 @@ How it works:
 How to **install** project.
 
 ```bash
-$ gcc xt32.c \
-> chmod +x xt32
+$ gcc xt32.c
 ```
 
 ## 🚀Usage
