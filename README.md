@@ -5,7 +5,7 @@
 
 
 ## ❓General Info
-**xt32** is a **dynamic encoding system** built originally in Python3, now C for Windows!
+**xt32** is a **dynamic encoding system** built originally in Python3, now for Windows!
 
 
 
