@@ -25,7 +25,7 @@ $ python3 src/install.py
 ## 🚀Usage
 How to start ?
 ```bash
-$ python3 xt32.py
+$ python3 win-xt32.py
 ```
 Systems Supported:
 
