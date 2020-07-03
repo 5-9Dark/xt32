@@ -17,7 +17,7 @@ Versions that are currently being supported with security updates.
 
 | Version | Name               |  Code-Name   |
 | ------- | ------------------ | ------------ |
-|  1.0    | version-1.0.0    / |   Gopel      |
+|  1.0    | version-1.0.0/     |   Gopel      |
 -----------------------------------------------
 
 (C) FiveNineDark
