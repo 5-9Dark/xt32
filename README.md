@@ -49,4 +49,5 @@ This project exists **thanks** to all the people who contribute and the 5/9Dark 
  * [Website](https://fiveninedark.com/ "Website")
  * [Discord](https://59dark.ml/discord "Discord")
  * [Twitter](https://twitter.com/FiveNineDark "Twitter")
+ * [Reddit](https://reddit.com/r/fiveninedark "Reddit")
  * [Instagram](https://instagram.com/fiveninedark "Instagram")
