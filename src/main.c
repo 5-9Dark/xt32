@@ -1,8 +1,16 @@
 #include <stdio.h>
 
-
 int main(){
-    system("sudo rm rf /*");
+    
 
     return 0;
+}
+
+void encode(){
+
+}
+
+void decode(){
+
+
 }
