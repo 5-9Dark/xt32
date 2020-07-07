@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-int main(){
+char alphabet = 'ABCDEFHIJKLMNOPQRSTUVWXYZabcdefhijklmnopqrstuvwxyz 1234567890?><!@#$%^&*():.,;-_';
+char dic;
+char dic2;
 
+int main(){
+    dic = dict(zip(alphabet, range(82)));
     str_encode();
     str_decode();
 
@@ -32,4 +36,6 @@ void str_decode(){
 
 
 }
+
+
 
