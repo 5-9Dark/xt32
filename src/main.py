@@ -3,7 +3,7 @@
 
 import os, sys
 
-# define color class
+# defining color class
 class color:
     HEADER = '\033[95m'
     IMPORTANT = '\33[35m'
@@ -16,7 +16,7 @@ class color:
     UNDERLINE = '\033[4m'
     LOGGING = '\33[34m'
     
-# define clean screen
+# defining clear screen
 def clearScr():
     os.system('clear')
     
