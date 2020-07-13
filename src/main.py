@@ -16,7 +16,7 @@ class color:
     UNDERLINE = '\033[4m'
     LOGGING = '\33[34m'
     
-# define clean src
+# define clean screen
 def clearScr():
     os.system('clear')
     
